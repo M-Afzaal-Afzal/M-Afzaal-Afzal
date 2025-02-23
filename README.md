@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi there, I’m M Afzaal Afzal</h1>
+<h1 align="center">Hi there 👋, I’m M Afzaal Afzal</h1>
 
 ###
 
