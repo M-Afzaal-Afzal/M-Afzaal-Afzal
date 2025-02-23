@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/M-Afzaal-Afzal/M-Afzaal-Afzal/blob/main/cover.png"  />
+  <img height="auto" width="100%" src="https://github.com/M-Afzaal-Afzal/M-Afzaal-Afzal/blob/main/cover.png"  />
 </div>
 
 ###
