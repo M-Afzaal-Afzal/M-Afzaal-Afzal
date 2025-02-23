@@ -136,3 +136,7 @@ I have **3+ years** of experience building **high-performance**, **SEO-optimized
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/M-Afzaal-Afzal/M-Afzaal-Afzal/output/snake.svg" alt="Snake animation" />
+
+###
