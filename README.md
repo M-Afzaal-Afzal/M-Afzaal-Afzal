@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img height="auto" width="100%" src="https://github.com/M-Afzaal-Afzal/M-Afzaal-Afzal/blob/main/cover.png"  />
 </div>
 
@@ -140,3 +140,4 @@ I have **3+ years** of experience building **high-performance**, **SEO-optimized
 <img src="https://raw.githubusercontent.com/M-Afzaal-Afzal/M-Afzaal-Afzal/output/snake.svg" alt="Snake animation" />
 
 ###
+](https://www.mafzaalafzal.com/)
