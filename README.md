@@ -30,7 +30,7 @@
 
 Production-minded AI applications: contextual RAG platforms with citations and Ragas evals, tool-calling and multi-agent systems with guardrails and human-in-the-loop approval, and the full-stack products around them.
 
-My portfolio runs one of my systems: ask it anything at [mafzaalafzal.com](https://www.mafzaalafzal.com) — keyword retrieval over the site's content, a citation on every answer, and a grounded refusal when it does not know.
+My portfolio runs one of my systems: ask it anything at [mafzaalafzal.com](https://www.mafzaalafzal.com). It uses keyword retrieval over the site's content, puts a citation on every answer, and gives a grounded refusal when it does not know.
 
 ## Selected work
 
@@ -51,12 +51,12 @@ Full case studies: [mafzaalafzal.com/projects](https://www.mafzaalafzal.com/proj
 </div>
 
 Plus the AI layer: LLM APIs (OpenAI, Claude, Gemini) · Chroma · RAG · agents · Ragas evals · n8n.
-Day to day I work with **Cursor**, **Claude Code**, and **Codex** — agents draft, I review every diff.
+Day to day I work with **Cursor**, **Claude Code**, and **Codex**: agents draft, I review every diff.
 
 ## How I think about AI products
 
 > AI is a multiplier. If you multiply by zero, you get zero.
-> The engineering fundamentals are the number being multiplied — that is why I spent five years on them first.
+> The engineering fundamentals are the number being multiplied. That is why I spent five years on them first.
 
 I write about this on my [blog](https://www.mafzaalafzal.com/blog): production-ready RAG, and how I use Cursor, Claude, and Codex together.
 
