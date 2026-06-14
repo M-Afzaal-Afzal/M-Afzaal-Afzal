@@ -62,7 +62,7 @@ I write about this on my [blog](https://www.mafzaalafzal.com/blog): production-r
 
 ## Reach me
 
-**afzaal1721@gmail.com** · [book a 30-min call](https://calendly.com/afzaal1721/30-mins-one-to-one-meeting) · [mafzaalafzal.com](https://www.mafzaalafzal.com)
+**eng.afzal.de@gmail.com** · [book a 30-min call](https://calendly.com/afzaal1721/30-mins-one-to-one-meeting) · [mafzaalafzal.com](https://www.mafzaalafzal.com)
 
 ---
 
